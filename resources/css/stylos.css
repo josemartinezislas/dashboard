@@ -1,0 +1,6 @@
+.itr{
+    @apply
+    border-red-500
+    border-dotted
+    border-2
+}

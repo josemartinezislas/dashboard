@@ -1,0 +1,93 @@
+no,count,proy_nom,proy_sect,pro_tipo,pro_desc,proy_mpio,proy_inver,proy_e_dir,proy_e_ind,proy_fase,proy_seg,proy_stat
+1,1,Cementos Fortaleza,24,2,Ampliación de Planta trituradora PALMAR I para la extracción de puzolana y fabricación de cemento.,55,"5,700,000,000",5,200,1,8,1
+2,2,Time Ceramics,8,1,"Planta para la fabricación de pisos y losetas cerámicas a partir de la arcilla, y sus derivados.",21,"2,700,000,000","1,200","2,000",2,8,1
+3,3,TITÁN de Biopappel,26,2,Ampliación de la planta de papel para la fabricación de cajas de cartón.,69,"1,350,000,000",350,"1,050",3,8,1
+4,4,Torre Ag Air Life,30,1,Torre de 97 departamentos residenciales con zonas de amenidades.,48,"363,000,000",605,300,4,8,1
+5,5,ISQUISA,1,1,"Centro de distribución para productos químicos, de limpieza y agroindustriales.",63,"250,000,000",100,300,5,8,1
+6,6,Nave Tepeji Park,18,2,Nave industrial multimodal para arrendamiento,63,"150,000,000",100,50,6,8,1
+7,7,Anffer muebles,21,1,Planta para la fabricación de muebles de diseño.,66,"110,000,000",500,"2,000",5,8,1
+8,1,CARNOT,16,3,,66,"1,710,000,000",500,"5,000",10,8,2
+9,2,GLASSIA,32,3,,51,"960,000,000",500,200,10,8,2
+10,3,Grupak Hidalgo,26,3,,21,"900,000,000",0,0,10,8,2
+11,4,Autozone,29,3,,48,"50,000,000",45,150,10,8,2
+12,5,Nueva Central de Abasto Miguel Hidalgo,7,3,,82,"2,500,000,000","5,000","3,000",10,8,2
+13,6,Reyma,23,3,,61,0,0,0,10,8,2
+14,7,MINCER HD (Mat holding),3,3,,51,"1,400,000,000",350,500,10,8,2
+15,8,Grupo Energía México GEMEX SA de CV Energia OLLIN SA de CV,14,3,,29,"1,660,000,000",0,0,10,1,2
+16,9,Global Amor (Bindaje),5,3,,66,"200,000,000",0,0,10,6,2
+17,10,Envases Universales PET (Ampliación Pet),28,3,,8,"700,000,000",50,150,10,2,2
+18,11,Ap Mascarillas (PET),22,3,,61,"50,000,000",100,40,10,2,2
+19,12,"LODISE, Naves Chimalpa",25,3,,8,"350,000,000",0,200,10,2,2
+20,13,Parque Logistico Tepejí (Fortem Capital),25,3,,63,"400,000,000",450,"1,250",10,2,2
+21,14,Parqmex Industrial Development,25,3,,63,"1,600,000,000","1,000","1,500",10,2,2
+22,15,SUSUKI,6,3,,13,"171,000,000",60,200,10,8,2
+23,1,USSA Real Estate (QRD MX I.S. de R.L. de C.V.,8,3,,66,"525,890,000",0,0,10,6,3
+24,2,Empacadora Therbal ,2,3,,69,"240,000,000",150,400,10,8,3
+25,3,Flexi,31,3,,61,"69,000,000",680,"1,000",10,8,3
+26,4,DHL,29,3,,63,0,0,0,10,8,3
+27,5,FAWTracks-ELAM,3,3,,48,0,0,0,10,8,3
+28,6,ONIVA,3,3,,24,"183,000,000",300,"3,000",10,8,3
+29,7,P&L SOLAR CO. ,13,3,,77,"900,000,000",120,360,10,1,3
+30,8,WISENERGY,13,3,,57,"800,000,000",100,300,10,1,3
+31,9,PROGERAL,3,3,,61,"20,000,000",25,50,10,8,3
+32,10,"Inmobiliaria Resultados, S.A. de C.V.",25,3,,75,0,0,0,10,2,3
+33,11,Proyecto Mitolka,15,3,,75,0,0,0,10,2,3
+34,12,Grupo Energía México GEMEX SA de CV Energías Renovables Valle del Mezquital Sa de CV,14,3,,55,"1,020,000,000",0,0,10,1,3
+35,13,Ciclotrónica Mexicana S.A. de C.V.,14,3,,83,"20,000,000",500,0,10,5,3
+36,14,Cooperativa Cuauhtémoc,20,3,,63,"700,000,000",100,0,10,5,3
+37,15,Zetta Electric Drive Train,10,3,,83,"1,900,000,000",500,0,10,8,3
+38,16,Grupo Zuma Energía SA de CV/State Power Investment Corporation (SPIC),17,3,,48,0,0,0,10,1,3
+39,17,EGIS,9,3,,48,0,0,0,10,3,3
+40,18,Terminal Gasera,12,3,,83,0,0,0,10,3,3
+41,19,Ampliación de operaciones Condumex,4,3,,7,0,0,0,10,3,3
+42,20,Desarrollo Comercial e Industrial y Oriente,19,3,,51,0,0,0,10,3,3
+43,21,Rigoli,27,3,,5,"500,000,000",15,45,10,3,3
+44,22,José Luis Robledo López,11,3,,5,0,0,0,10,7,3
+45,1,"JAGUAR Ingenieros Constructores, S.A. de C.V.",33,3,Entronque Real del Monte km 10+600,48,"568,600,000",0,0,10,8,4
+46,2,"COCONAL, S.A.P.I. de C.V.",33,3,"Cuerpo nuevo de sección A4 en 3.46 km, rampa de frenado y 3 viaductos (km 11+500 al 14+960)",48,"757,400,000",0,0,10,8,4
+47,3,"VISE, S.A. de C.V.",33,3,Cuerpo nuevo de sección A4 en 2.24 km y 3 viaductos (km 14+960 al 17+590),48,"405,400,000",0,0,10,8,4
+48,4,"PROACON México, S.A. de C.V.",33,3,Construcción del túnel Vicente Guerrero km 16+440,48,"787,300,000",0,0,10,8,4
+49,5,"ESMA Instalaciones, S.A. de C.V.",33,3,Cuerpo nuevo de sección A4 en 2.3 km (km 17+700 al km 20+000),48,"271,500,000",0,0,10,8,4
+50,6,"VISE, S.A. de C.V.",33,3,Entronque a desnivel Huasca (primera etapa) km 20+400,48,"248,400,000",0,0,10,8,4
+51,1,SAAG (inversión en 3 etapas),3,3,,82,"6,000,000,000",480,"4,800",10,8,5
+52,2,STRUTTURA Médica Completa,30,3,,48,"3,000,000,000",300,500,10,8,5
+53,3,Productos Científicos (Laboratorios CARNOT),16,3,,66,"1,800,000,000",400,800,10,8,5
+54,4,Grupak Hidalgo (ampliación),26,3,,21,"700,000,000",100,200,10,8,5
+55,5,Grupo Industrial MEXGO,27,3,,5,"450,000,000",50,250,10,8,5
+56,6,WEG Planta Aluminio,21,3,,13,"276,000,000",300,0,10,8,5
+57,7,Empacadora THERBAL,2,3,,69,"240,000,000",150,400,10,8,5
+58,8,Blindajes Parciales GLOBAL ARMOR,34,3,,66,"200,000,000",600,0,10,8,5
+59,9,Suzuki Motors de México,3,3,,13,"171,000,000",60,200,10,8,5
+60,10,WEG Planta tableros eléctricos y fotovoltáicos,21,3,,13,"140,000,000","1,500",0,10,8,5
+61,11,AMSTED Seals México,4,3,,61,"200,000,000",72,300,10,8,5
+62,12,AUTOZONE 3 nuevas tiendas,30,3,,8,"75,000,000",45,150,10,8,5
+63,13,GEMEX - Proyecto Arco y Donhi,14,3,,29,"1,660,000,000",30,800,10,8,5
+64,14,Herrera de Oriente (Chirey Pachuca),30,3,,48,"35,000,000",60,100,10,8,5
+65,15,Grupo Agrocor,2,3,,82,"5,000,000",24,75,10,8,5
+66,16,GEMEX - Proyecto Valle de Mezquital,14,3,,55,"1,020,000,000",30,600,10,8,5
+67,17,Ciudad WEG (en proceso de comprade terreno),21,3,,13,"4,000,000,000",0,0,10,8,5
+68,1,Parque Logístico PLATAH Fase 2,20,3,,66,"9,775,000,000","3,300",0,10,8,6
+69,2,Premium Park Foresta,20,3,,63,"1,400,000,000",400,800,10,8,6
+70,3,Simil Cuero Plymouth (Ampliación),21,3,,69,"85,000,000",150,0,10,8,6
+71,4,Farmacias del Ahorro (24 nuevas farmacias y consultorios 2023-2024),7,3,,48,"108,000,000",294,334,10,8,6
+72,5,Corporación Rica (Coca-Cola),27,3,,22,"25,800,000",11,"4,941",10,8,6
+73,6,Viñedo el Refugio,33,3,,44,"100,000,000",25,16,10,8,6
+74,7,Viñedo Tierra y Almas,33,3,,59,"15,000,000",35,52,10,8,6
+75,8,Ex Hacienda el Zoquital,33,3,,12,"25,000,000",14,50,10,8,6
+76,9,Complejo Turístico Mangata,34,3,,24,"40,000,000",10,40,10,8,6
+77,10,Hotel La Joya,35,3,,48,"10,000,000",29,5,10,8,6
+78,11,GLM ,8,3,,51,"204,400,000",171,257,10,8,6
+79,12,COVITA Inmobiliaria ,8,3,,16,"349,000,000",365,549,10,8,6
+80,13,Nach Hause ,8,3,,61,"82,500,000",8,12,10,8,6
+81,14,"Inmobiliaria y Constructora JUGSA, S.A. de C.V.",8,3,,48,"345,600,000",650,975,10,8,6
+82,15,Constructora Real de Pachuca S.A. de C.V. ,8,3,,83,"18,750,000",28,42,10,8,6
+83,16,"Edificaciones y Constructora del Centro, S.A. de C.V. ",8,3,,51,"520,000,000",480,720,10,8,6
+84,17,ITZEL HERNÁNDEZ MAYORGA,8,3,,48,"68,200,000",30,45,10,8,6
+85,18,CONSTRUCTORA STRATTO ,8,3,,77,"81,000,000",15,23,10,8,6
+86,19,VINTE Diseños y Consultoría S.A. de C.V. ,8,3,,48,"3,839,846,000","5,160","7,740",10,8,6
+87,20,Grupo Comercial Jire S.A. de C.V. ,8,3,,83,"576,700,000",650,975,10,8,6
+88,21,"Edificando el Futuro, S.A. de C.V. ",8,3,,83,"440,000,000",260,390,10,8,6
+89,22,QUMA de Hidalgo S.A. de C.V. ,8,3,,51,"270,000,000",70,105,10,8,6
+90,23,"Desarrollos Inmobiliarios SADASI, S.A. de C.V.",8,3,,69,"1,960,000,000","1,820","2,730",10,8,6
+91,24,"Grupo Blancomex, S.A- de C.V. ",8,3,,61,"1,458,160,000","1,080","1,620",10,8,6
+92,25,Hogares Unión/Grupo Parnelli ,8,3,,69,"1,577,500,000","1,840","2,760",10,8,6
